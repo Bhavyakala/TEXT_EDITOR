@@ -1,0 +1,28 @@
+.ta{ 
+    min-height: 150px;
+    width: 80vw; 
+    overflow: hidden;
+    margin-right: auto ;
+    margin-left: auto;
+    display: block;
+    border-style: solid;
+    border-block-end-color: black;
+    padding: 5px;
+    font-size: 3;
+}
+h4{
+    color: #262d79;
+    text-align: center;
+    padding: 3%;   
+    transition: font-size 1s ease-in-out; 
+}
+h4:hover{
+    font-size: 32px;
+}
+#fs{
+      width: 80px; 
+}
+#ff{
+    width: auto; 
+}
+
